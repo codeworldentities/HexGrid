@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v6506 -->
+<div class="styles-—-stylesheet-definitions-6506">
+  <header class="panel">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-6506">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="flex-row">
+    <div class="card">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-6506">v6506</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-6506 {
+  display: flex;
+  grid-template-columns: 1fr 2fr;
+  gap: 19px;
+  padding: 20px;
+  background: #abc9d7;
+  border-radius: 11px;
+  border: 1px solid #a13fcb;
+}
+.styles-—-stylesheet-definitions-6506 .panel {
+  color: #8c8e99;
+  font-size: 19px;
+  font-weight: 500;
+}
+.badge-6506 {
+  background: #a13fcb;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 10px;
+}
+</style>
